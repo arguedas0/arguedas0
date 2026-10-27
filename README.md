@@ -17,6 +17,11 @@
 
 🚀 Busco transformar meus estudos em projetos práticos, evoluindo gradualmente minhas habilidades técnicas.
 
+###
+
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arguedasdiel@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&labelColor=000000)](https://www.linkedin.com/in/addiel-anthonny-arguedas-sangalli-882601289/)
+###
 
 ## 🛠️ Linguagens e tecnologias
 
