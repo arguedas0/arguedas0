@@ -25,30 +25,42 @@
 
 ## 🛠️ Linguagens e tecnologias
 
-<img align="left" 
-alt="HTML" 
-title="HTML"
-width="35px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img
+    alt="HTML5"
+    title="HTML5"
+    width="35"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+  />
+  &nbsp;
+  <img
+    alt="CSS3"
+    title="CSS3"
+    width="35"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+  />
+  &nbsp;
+  <img
+    alt="JavaScript"
+    title="JavaScript"
+    width="35"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+  />
+  &nbsp;
+  <img
+    alt="Bootstrap"
+    title="Bootstrap"
+    width="35"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
+  />
 
-<img align="left" 
-alt="CSS" 
-title="CSS"
-width="35px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-          
-<img align="left" 
-alt="JavaScript" 
-title="JavaScript"
-width="35px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 
-<img align="left"
-alt="Bootstrap" 
-title="Bootstrap"
-width="35px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+<br clear="all" />
+
+
+## Minhas Contribuições
+ 
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arguedas0/arguedas0/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arguedas0/arguedas0/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arguedas0/arguedas0/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
