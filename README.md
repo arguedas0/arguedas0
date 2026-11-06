@@ -4,18 +4,26 @@
   </a>
 </div>
 
-###
-👋 Olá, sou Addiel Anthonny
+##
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas, iniciando minha jornada na área de tecnologia e desenvolvimento Front-End.
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-## 💻 Sobre mim
+class Developer:
+    def __init__(self):
+        self.name = "Addiel Anthonny"
+        self.role = "Systems Analysis and Development Student"
+        self.focus = "front-end developer"
 
-📚 Atualmente, estou desenvolvendo minha base em lógica de programação, algoritmos e banco de dados.
+ def say_hi(self):
+        print("Here I share my progress.")
 
-💡 Tenho interesse em aprender novas tecnologias e compreender como soluções de software são desenvolvidas.
+me = Developer()
+me.say_hi()
+```
 
-🚀 Busco transformar meus estudos em projetos práticos, evoluindo gradualmente minhas habilidades técnicas.
+##
 
 
 ## 🛠️ Linguagens e tecnologias
@@ -52,10 +60,13 @@
 <br clear="all" />
 
 
-## Minhas Contribuições
+##
  
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arguedas0/arguedas0/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arguedas0/arguedas0/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arguedas0/arguedas0/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
+<div align="center">
+  <sub>Atualizado automaticamente todos os dias</sub>
+</div>
