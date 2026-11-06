@@ -23,7 +23,14 @@ me = Developer()
 me.say_hi()
 ```
 
-##
+###
+
+```python
+# I'm currently strengthening my knowledge of programming logic,
+# algorithms, databases, and web development.
+# I aim to turn what I learn into practical projects while
+# continuously improving my skills.
+```
 
 
 ## 🛠️ Linguagens e tecnologias
