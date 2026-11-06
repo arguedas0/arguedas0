@@ -5,21 +5,17 @@
 </div>
 
 ###
-👋 Olá, sou Addiel Arguedas
+👋 Olá, sou Addiel Anthonny
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas, iniciando minha jornada na área de tecnologia e desenvolvimento Front-End.
 
-## Sobre mim
+## 💻 Sobre mim
 
 📚 Atualmente, estou desenvolvendo minha base em lógica de programação, algoritmos e banco de dados.
 
 💡 Tenho interesse em aprender novas tecnologias e compreender como soluções de software são desenvolvidas.
 
 🚀 Busco transformar meus estudos em projetos práticos, evoluindo gradualmente minhas habilidades técnicas.
-
-###
-
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arguedasdiel@gmail.com) 
 
 
 ## 🛠️ Linguagens e tecnologias
