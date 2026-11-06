@@ -26,14 +26,17 @@ me.say_hi()
 ###
 
 ```python
-# I'm currently strengthening my knowledge of programming logic,
-# algorithms, databases, and web development.
-# I aim to turn what I learn into practical projects while
-# continuously improving my skills.
+self.about_me = (
+
+    "I'm passionate about technology and software development. "
+    "Always curious to explore new technologies, solve problems, "
+    "and expand my knowledge. Currently developing my skills in "
+    "programming, algorithms, databases, and web development. "
+)
 ```
 
 
-## 🛠️ Linguagens e tecnologias
+## 🛠️ Languages and Technologies
 
   <img
     alt="HTML5"
