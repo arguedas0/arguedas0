@@ -14,9 +14,9 @@ class Developer:
     def __init__(self):
         self.name = "Addiel Anthonny"
         self.role = "Systems Analysis and Development Student"
-        self.focus = "front-end developer"
+        self.focus = "Front-End Development"
 
-     def say_hi(self):
+    def say_hi(self):
         print("Here I share my progress.")
 
 me = Developer()
