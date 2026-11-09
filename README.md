@@ -24,7 +24,6 @@ me.say_hi()
 ```
 
 ###
-<img align="right" alt="" height="190px" src="./assets/malenia2.png">
 
 ```python
 self.about_me = (
