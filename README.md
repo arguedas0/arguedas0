@@ -24,6 +24,7 @@ me.say_hi()
 ```
 
 ###
+<img align="right" alt="" height="190px" src="./assets/malenia2.png">
 
 ```python
 self.about_me = (
@@ -32,6 +33,7 @@ self.about_me = (
     "Always curious to explore new technologies, solve problems, "
     "and expand my knowledge. Currently developing my skills in "
     "programming, algorithms, databases, and web development. "
+
 )
 ```
 
